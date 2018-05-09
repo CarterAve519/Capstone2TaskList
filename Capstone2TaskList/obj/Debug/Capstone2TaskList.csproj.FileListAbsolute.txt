@@ -1,0 +1,7 @@
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\Capstone2TaskList.exe.config
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\Capstone2TaskList.exe
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\Capstone2TaskList.pdb
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.csprojResolveAssemblyReference.cache
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.csproj.CoreCompileInputs.cache
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.exe
+c:\users\carte\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\Capstone2TaskList.pdb
